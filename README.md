@@ -57,6 +57,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shafa-zeynalli&theme=dark&background=000000)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shafa-zeynalli&theme=dark&background=000000)]()
 
 ![Shafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafa-zeynalli&show_icons=true&theme=transparent)
