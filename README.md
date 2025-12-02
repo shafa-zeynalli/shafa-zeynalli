@@ -21,40 +21,41 @@
 
 ---
 ## 🛠️ Skills
-<div >
+<div align="center">
 
-  <!-- Backend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" title="Java"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" title="Spring"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" title="Spring Boot"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="50" title="Hibernate"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" title="Git"/>&nbsp;
+  <!-- Row 1 -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" />&nbsp;
 
-  <!-- Databases -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" title="MySQL"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>&nbsp;
+  <br/><br/>
 
-  <!-- Testing & Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="50" title="JUnit"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" title="Postman"/>&nbsp;
+  <!-- Row 2 -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" />&nbsp;
 
-  <!-- Additional Technologies -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" title="PHP"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="50" title="Laravel"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="50" title="Kafka"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" title="RabbitMQ"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" title="Redis"/>&nbsp;
+  <br/><br/>
 
-  <!-- Frontend -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" title="React"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" title="jQuery"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" title="Bootstrap"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" title="HTML5"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" title="CSS3"/>&nbsp;
+  <!-- Row 3 -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" />&nbsp;
 
 </div>
+
 
 
 ---
