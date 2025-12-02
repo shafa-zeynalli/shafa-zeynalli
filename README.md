@@ -21,7 +21,7 @@
 
 ---
 ## 🛠️ Skills
-<div align="center">
+<div ">
 
   <!-- Row 1 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" />&nbsp;
@@ -31,7 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" />&nbsp;
 
-  <br/><br/>
 
   <!-- Row 2 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />&nbsp;
@@ -41,7 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" />&nbsp;
 
-  <br/><br/>
 
   <!-- Row 3 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="50" />&nbsp;
