@@ -21,7 +21,7 @@
 
 ---
 ## 🛠️ Skills
-<div align="center">
+<div >
 
   <!-- Backend -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" title="Java"/>&nbsp;
