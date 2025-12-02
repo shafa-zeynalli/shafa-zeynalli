@@ -21,7 +21,7 @@
 
 ---
 ## 🛠️ Skills
-<div ">
+<div>
 
   <!-- Row 1 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" />&nbsp;
@@ -31,8 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="50" />&nbsp;
 
-
-  <!-- Row 2 -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="50" />&nbsp;
@@ -59,7 +57,7 @@
 ---
 
 ## 🔥 GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shafa-zeynalli&theme=dark&background=000000" height="180"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=shafa-zeynalli&show_icons=true&theme=transparent" height="180"/>
