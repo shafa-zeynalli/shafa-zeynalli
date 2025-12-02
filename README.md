@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 - 🔭 I’m working on building backend services, APIs, and scalable systems  
 - 🌱 Currently improving my Java & Spring Boot skills  
 - ⚡ In my free time, I solve coding problems and explore backend technologies  
@@ -20,7 +20,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Shafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shafazeynalli/)
 
 ---
-## 🛠️ Skills
+## 🛠️ Languages and Tools :
 <div style="display: flex; flex-wrap: wrap; gap: 6px;" align="left">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" title="Java"/>
